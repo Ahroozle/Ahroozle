@@ -1,4 +1,8 @@
-### Hi there 👋
+# Help, I'm trapped in a readme
+
+Hi! I'm a game programmer, although I also tend to end up having to step into minor design, VFX, UI, and art roles depending on circumstance.
+
+These days I tend to do work in Unreal Engine 4 Blueprints and C++, but every now and then projects may be in different engines, or even just raw C++ if something interesting sparks a need for me to scribble out an implementation. The oldest repositories here are from my time at Full Sail University, while younger ones tend to be from various timeframes after my graduation.
 
 <!--
 **Ahroozle/Ahroozle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
